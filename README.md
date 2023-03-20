@@ -6,12 +6,8 @@
     <a href="https://hub.docker.com/r/manimcommunity/manim"><img src="https://img.shields.io/docker/v/manimcommunity/manim?color=%23099cec&label=docker%20image&logo=docker" alt="Docker image"> </a>
     <a href="https://mybinder.org/v2/gh/ManimCommunity/jupyter_examples/HEAD?filepath=basic_example_scenes.ipynb"><img src="https://mybinder.org/badge_logo.svg"></a>
   
-    <a href="https://docs.manim.community/"><img src="https://readthedocs.org/projects/manimce/badge/?version=latest" alt="Documentation Status"></a>
-    <a href="https://pepy.tech/project/manim"><img src="https://pepy.tech/badge/manim/month?" alt="Downloads"> </a>
-    <img src="https://github.com/ManimCommunity/manim/workflows/CI/badge.svg" alt="CI">
-    <br />
-    <br />
-    <i>An animation engine for explanatory math videos</i>
+ 
+    An animation engine for explanatory math videos
 </p>
 <hr />
 
