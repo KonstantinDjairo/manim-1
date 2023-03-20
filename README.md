@@ -129,4 +129,4 @@ Our full code of conduct, and how we enforce it, can be read on [our website](ht
 
 ## License
 
-The software is double-licensed under the MIT license, with copyright by 3blue1brown LLC (see LICENSE), and copyright by Manim Community Developers (see LICENSE.community).
+The software is double-licensed under the GPL-V3 license, with copyright by 3blue1brown LLC (see LICENSE), and copyright by Manim Community Developers (see LICENSE.community).
